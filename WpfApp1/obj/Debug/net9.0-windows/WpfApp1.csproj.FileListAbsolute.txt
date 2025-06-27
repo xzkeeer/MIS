@@ -1,0 +1,107 @@
+C:\Users\Student\source\repos\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Student\source\repos\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Student\source\repos\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Student\source\repos\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.lref
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.g.cs
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.g.cs
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.cache
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.lref
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.exe
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll.config
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.deps.json
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.runtimeconfig.json
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.pdb
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\AutoMapper.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Dapper.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Npgsql.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.baml
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.baml
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.g.resources
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.Up2Date
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\refint\WpfApp1.dll
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Рабочий стол\Новая папка (2)\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.exe
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll.config
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.deps.json
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.runtimeconfig.json
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.pdb
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\AutoMapper.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Dapper.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Npgsql.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.g.cs
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.g.cs
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.cache
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.lref
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.baml
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.baml
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.g.resources
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfo.cs
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.Up2Date
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\refint\WpfApp1.dll
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
+D:\Рабочий стол\Андрея\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.exe
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll.config
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.deps.json
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\WpfApp1.pdb
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\AutoMapper.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Dapper.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\bin\Debug\net9.0-windows\Npgsql.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.g.cs
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\App.baml
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\TableEditorWindow.baml
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.g.resources
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\refint\WpfApp1.dll
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\andre\Downloads\Новая сжатая ZIP-папка\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll

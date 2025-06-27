@@ -1,0 +1,124 @@
+﻿<Window x:Class="WpfApp1.TableEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+   Title="{Binding Title}" 
+        Height="650" Width="900"
+        WindowStartupLocation="CenterScreen"
+        Background="#FF1E1E28"
+        FontFamily="Segoe UI">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisibility"/>
+
+        <!-- Кнопки с иконками (можно заменить TextBlock на Path или Image) -->
+        <Style TargetType="Button" x:Key="SideButton">
+            <Setter Property="Background" Value="#FF3B3B50"/>
+            <Setter Property="Foreground" Value="#FFE0E0E0"/>
+            <Setter Property="Margin" Value="0 0 0 12"/>
+            <Setter Property="Padding" Value="12 8"/>
+            <Setter Property="Width" Value="140"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                CornerRadius="6" 
+                                BorderBrush="#FF515169" BorderThickness="1">
+                            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                                <TextBlock Text="⮞" FontSize="16" Margin="0,0,6,0" VerticalAlignment="Center"/>
+                                <ContentPresenter VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FF56567C"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FF8484A6"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="#FF2B2B3B"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="RowBackground" Value="#FF252535"/>
+            <Setter Property="AlternatingRowBackground" Value="#FF2E2E44"/>
+            <Setter Property="BorderBrush" Value="#FF4A4A67"/>
+            <Setter Property="GridLinesVisibility" Value="Horizontal"/>
+            <Setter Property="HeadersVisibility" Value="Column"/>
+            <Setter Property="CanUserAddRows" Value="True"/>
+            <Setter Property="CanUserDeleteRows" Value="True"/>
+            <Setter Property="IsReadOnly" Value="False"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="SelectionMode" Value="Single"/>
+            <Setter Property="SelectionUnit" Value="FullRow"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#FF3D3D5A"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Padding" Value="10,6"/>
+            <Setter Property="BorderBrush" Value="#FF515169"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style TargetType="DataGridCell">
+            <Setter Property="BorderBrush" Value="#FF515169"/>
+            <Setter Property="BorderThickness" Value="0,0,1,1"/>
+            <Style.Triggers>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#FF62628E"/>
+                    <Setter Property="Foreground" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="DataGridRow">
+            <Setter Property="Height" Value="30"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF414165"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Заголовок слева -->
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="{Binding Title}" 
+                   Foreground="#FFE0E0E0" FontSize="22" FontWeight="Bold" 
+                   Margin="0 0 0 16" HorizontalAlignment="Center" />
+
+        <!-- Панель кнопок слева вертикально -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">
+            <Button Content="Удалить строку" Command="{Binding DeleteRowCommand}" Style="{StaticResource SideButton}"/>
+            <Button Content="Импорт из JSON" Command="{Binding ImportCommand}" Style="{StaticResource SideButton}"/>
+            <Button Content="Экспорт в JSON" Command="{Binding ExportCommand}" Style="{StaticResource SideButton}"/>
+            <Button Content="Сохранить" Command="{Binding SaveCommand}" Style="{StaticResource SideButton}"/>
+        </StackPanel>
+
+        <!-- Таблица справа -->
+        <DataGrid Grid.Row="1" Grid.Column="1" ItemsSource="{Binding TableData}" SelectedItem="{Binding SelectedRow}" AutoGenerateColumns="True"/>
+    </Grid>
+</Window>
