@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Database backups or config
+*.sql
+*.bak
+*.db
+*.mdf
+*.ldf
+
+# Secrets and local config
+appsettings.*.json
+App.config.user
